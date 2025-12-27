@@ -1,0 +1,36 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Recipe Corner</title>
+</head>
+<body>
+    <h1>Recipe of Tea</h1>
+    <p>In this recipe we will prepare tea! which has been the most consumed hot drink all over India for a long period of time, isn't it? So, let's start making it.</p>
+    
+    <img src="https://thumbs.dreamstime.com/b/hot-tea-pouring-kulhad-earthen-pot-mud-pot-hot-indian-tea-getting-poured-mud-pot-to-mud-glass-217760824.jpg" alt="Tasty Tea">
+    
+    <h2>Ingredients</h2>
+    <ul>
+        <li>Milk</li>
+        <li>Tea powder</li>
+        <li>Sugar</li>
+        <li>Water</li>
+    </ul>
+    
+    <h2>Instructions</h2>
+    <ol>
+        <li>Add 1 cup of milk to the utensil.</li>
+        <li>Add 1 cup of water.</li>
+        <li>Add 1 teaspoon of tea powder and 2 teaspoons of sugar.</li>
+        <li>Let it boil for 10 minutes.</li>
+    </ol>
+    
+    <p><strong>The tea is ready!!</strong></p>
+</body>
+</html>
+
+** end of index.html **
+

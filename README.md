@@ -1,3 +1,9 @@
 # Daily-coding
-Learning frontend and dsa
-I am learing HTML ,CSS from freecodecamp and i practice by making basic web pages,so to keep track of these pages i  will commit them here Similarly for dsa question and its solution(approach)
+# My Learning Journey 🚀
+
+Daily tracking of my HTML and DSA learning progress.
+
+## Goals
+- Master HTML fundamentals
+- Solve 100 DSA problems
+- Commit code daily

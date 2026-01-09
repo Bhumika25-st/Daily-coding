@@ -1,0 +1,63 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+<body>
+
+<header>
+  <h1>Event Hub</h1>
+  <nav>
+    <ul>
+      <li><a href="#upcoming-events">Upcoming Events</a></li>
+      <li><a href="#past-events">Past Events</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <section id="upcoming-events">
+    <h2>Upcoming Events</h2>
+
+    <article>
+      <h3>Data Science Bootcamp</h3>
+      <p>An intensive bootcamp on data science.</p>
+    </article>
+
+    <article>
+      <h3>Web Development Workshop</h3>
+      <p>A workshop on modern web development.</p>
+    </article>
+  </section>
+
+  <section id="past-events">
+    <h2>Past Events</h2>
+
+    <article>
+      <h3>AI Workshop</h3>
+      <img src="ai.jpg" alt="AI workshop event">
+      <p>A practical AI workshop.</p>
+    </article>
+
+    <article>
+      <h3>Career Guidance Session</h3>
+      <img src="career.jpg" alt="Career guidance session">
+      <p>A session focused on placements.</p>
+    </article>
+  </section>
+</main>
+
+</body>
+
+</body>
+
+</html>
+
+** end of index.html **
+

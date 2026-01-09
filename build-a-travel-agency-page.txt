@@ -1,0 +1,84 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta
+      name="description"
+      content="A travel agency offering group travels, private tours, and top itineraries for unforgettable experiences."
+    >
+    <title>WanderEase Travel Agency</title>
+  </head>
+
+  <body>
+    <h1>Explore Our Travel Destinations</h1>
+
+    <p>
+      We provide exciting travel opportunities that allow you to explore new
+      destinations, cultures, and unforgettable experiences.
+    </p>
+
+    <h2>Packages</h2>
+
+    <p>
+      Our packages include group travels and private tours designed to match
+      different travel styles and budgets.
+    </p>
+
+    <ul>
+      <li>
+        <a
+          href="https://www.freecodecamp.org/learn"
+          target="_blank"
+        >
+          Group Travels
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://www.freecodecamp.org/learn"
+          target="_blank"
+        >
+          Private Tours
+        </a>
+      </li>
+    </ul>
+
+    <h2>Top Itineraries</h2>
+
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img
+          src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg"
+          alt="Cultural city tour"
+        >
+      </a>
+      <figcaption>Discover vibrant cities and rich cultures</figcaption>
+    </figure>
+
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img
+          src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg"
+          alt="Mountain adventure destination"
+        >
+      </a>
+      <figcaption>Experience thrilling mountain adventures</figcaption>
+    </figure>
+
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img
+          src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg "
+          alt="Relaxing and stuning beaches"
+        >
+      </a>
+      <figcaption>Relax on peaceful beaches with stunning views</figcaption>
+    </figure>
+  </body>
+</html>
+
+
+** end of index.html **
+

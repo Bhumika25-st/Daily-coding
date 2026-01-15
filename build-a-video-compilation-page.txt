@@ -1,0 +1,42 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+<main>
+    <h1>Tutorial Videos By Dance Marine </h1>
+    <p>Let the music speak and the movement tell the story 
+This choreography is all about rhythm, expression, and feeling every beat.
+Hope this performance brings you joy—don’t forget to like, share, and support.</p>
+</section>
+<section>
+ <h2>Tutorial of "Boyfriend"</h2>
+    <p> Its important to learn steps of the choreography!!</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/cmogZNttrGc?si=UUH_GQPv0gJXVo_1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+<section>
+    <h2>Tutorial Video of "Haseen"</h2>
+    <p>
+        Its important to learn steps of the choreography!!
+    </p>
+    <iframe
+    title="Haseen dance tutorial" width="560" height="315" src="https://www.youtube.com/embed/xqpYPzSwtFw?si=ORvk_Uxu3xVrQVo1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<section>
+ <h2>Tutorial of "Wishes"</h2>
+    <p>Its important to learn steps of the choreography!!</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/sNlktMKrbv0?si=NCSc1xYTuJuCIdVx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+</main>
+</body>
+
+</html>
+
+** end of index.html **
+

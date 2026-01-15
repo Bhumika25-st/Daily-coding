@@ -1,0 +1,70 @@
+** start of index.html **
+
+<body>
+
+  <h1 id="title">Product Review Survey</h1>
+
+  <p id="description">
+    Please fill out this survey to help us improve our product.
+  </p>
+
+  <form id="survey-form">
+
+    <!-- Name -->
+    <label id="name-label" for="name">Name</label><br>
+    <input
+      type="text"
+      id="name"
+      placeholder="Enter your name"
+      required
+    ><br><br>
+
+    <!-- Email -->
+    <label id="email-label" for="email">Email</label><br>
+    <input
+      type="email"
+      id="email"
+      placeholder="Enter your email"
+      required
+    ><br><br>
+
+    <!-- Number -->
+    <label id="number-label" for="number">Age</label><br>
+    <input
+      type="number"
+      id="number"
+      min="10"
+      max="99"
+      placeholder="Enter your age"
+    ><br><br>
+
+    <!-- Dropdown -->
+    <label for="dropdown">Role</label><br>
+    <select id="dropdown">
+      <option value="student">Student</option>
+      <option value="professional">Professional</option>
+    </select><br><br>
+
+    <!-- Radio -->
+    <p>Would you recommend this product?</p>
+    <input type="radio" name="recommend" value="yes"> Yes<br>
+    <input type="radio" name="recommend" value="no"> No<br><br>
+
+    <!-- Checkbox -->
+    <p>What do you like?</p>
+    <input type="checkbox" value="design"> Design<br>
+    <input type="checkbox" value="quality"> Quality<br><br>
+
+    <!-- Textarea -->
+    <textarea placeholder="Any comments?"></textarea><br><br>
+
+    <!-- Submit -->
+    <button id="submit" type="submit">Submit</button>
+
+  </form>
+
+</body>
+
+
+** end of index.html **
+

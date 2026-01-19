@@ -1,0 +1,43 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anime Review</title>
+</head>
+
+<body>
+<main>
+    <h1>Black Clover Season 5</h1>
+
+    <img 
+      src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/black-clover-english-poster.jpg?q=70&fit=crop&w=750&dpr=1"
+      alt="Black Clover poster for 2026 season"
+    >
+
+    <p>
+        Black Clover is officially returning in 2026 with new anime episodes continuing the story, bringing back main characters, upgraded visuals, and adapting key manga arcs.
+    </p>
+
+   
+    <p>
+        <strong>Movie Rating:</strong>
+        <span aria-hidden="true">⭐⭐⭐⭐⭐⭐⭐⭐⭐☆</span>
+        (9.2/10)
+    </p>
+
+    <h2>Cast Members</h2>
+    <ul>
+        <li><strong>Conrad Hills</strong> as Asta</li>
+        <li><strong>Lily Brown</strong> as Noelle</li>
+        <li><strong>Robert Pattinson</strong> as Yuno</li>
+    </ul>
+</main>
+</body>
+</html>
+
+
+** end of index.html **
+

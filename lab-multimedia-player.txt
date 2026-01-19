@@ -1,0 +1,78 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Multimedia Player</title>
+</head>
+<h1>Black Player</h1>
+<section>
+  <h2>Songs Player</h2>
+  <audio 
+  controls
+  aria-label="Relaxing instrumental music"
+
+  > 
+  <source src="https://cdn.freecodecamp.org/curriculum/js-music-player/sailing-away.mp3" type="audio/mpeg"></source></audio>
+</section>
+<section>
+  <h2>Videos Player</h2>
+  <video
+  controls
+  width="640"
+  aria-label>
+  <source src="https://cdn.freecodecamp.org/curriculum/labs/what-is-the-map-method-and-how-does-it-work.mp4"
+  type="vedio/mp4"></source>
+  <track src="https://cdn.freecodecamp.org/curriculum/labs/what-is-the-map-method-and-how-does-it-work.vtt" kind="subtitles" srclang="en" label="English" ></track></video>
+</section>
+<section>
+  <h2>Transcript</h2>
+  <p>[Camera turns on — slight background noise]
+
+Vlogger:
+“Hey guys! What’s up? Welcome back to the vlog. If you’re new here, hi, my name is ___, and if you’re not new… welcome back!”
+
+[Laughs]
+
+“So today is kind of a chill day. I didn’t really plan much, but I thought I’d just bring you along and show you what a normal day in my life looks like.”
+
+[Cut — walking outside]
+
+“Okay, so first things first, I need coffee. I literally cannot function without it. Let me know in the comments — are you a coffee person or a tea person?”
+
+[Coffee shop ambience]
+
+“Alright, mission accomplished. Got the coffee. This already feels like a good day.”
+
+[Cut — sitting in a room]
+
+“Honestly, I’ve been feeling a little overwhelmed lately. Between work, studies, and trying to stay consistent on YouTube, it gets tough sometimes. But I’m learning to take things one step at a time.”
+
+[Cut — laptop screen]
+
+“I’m about to edit yesterday’s video. Editing takes way longer than people think, but it’s also kinda relaxing when you get into the flow.”
+
+[Soft background music]
+
+“Quick reminder for you and for me — it’s okay to slow down. You don’t always have to be productive to be valuable.”
+
+[Cut — evening light through window]
+
+“Alright, I’m going to wrap up the vlog here. Thank you so much for spending part of your day with me. If you enjoyed this video, don’t forget to like, subscribe, and turn on notifications.”
+
+[Smiles]
+
+“I’ll see you in the next vlog. Bye!”
+
+[Camera fades out]</p>
+</section>
+<body>
+
+</body>
+
+</html>
+
+** end of index.html **
+

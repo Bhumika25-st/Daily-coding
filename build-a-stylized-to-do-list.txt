@@ -1,0 +1,108 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Styled To-Do List</title>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+  <ul class="todo-list">
+    <li>
+      <input type="checkbox" id="task1">
+      <label for="task1">Learn HTML</label>
+
+      <ul class="sub-item">
+        <li>
+          <a
+            class="sub-item-link"
+            href="https://developer.mozilla.org/en-US/docs/Web/HTML"
+            target="_blank"
+          >
+            HTML Docs
+          </a>
+        </li>
+      </ul>
+    </li>
+    <li>
+        <input type="checkbox" id="task2">
+        <label for="task2">Learn CSS</label>
+
+        <ul class="sub-item">
+            <li>
+                <a
+                class="sub-item-link"
+                href="https://developer.mozilla.org/en-US/docs/Web/CSS"
+                target="_blank"> CSS Docs</a>
+            </li>
+            </ul>
+        </li>
+        <li>
+            <input type="checkbox" id="task3">
+            <label for="task3">Practice DSA</label>
+            <ul class="sub-item">
+                <li>
+                    <a
+                    class="sub-item-link"
+                    href="https://leetcode.com"
+                       target="_blank"> Leetcode</a>
+             </li>
+             </ul>
+        </li>
+<li>
+      <input type="checkbox" id="task4">
+      <label for="task4">Build Projects</label>
+
+      <ul class="sub-item">
+        <li>
+          <a
+            class="sub-item-link"
+            href="https://www.freecodecamp.org"
+            target="_blank"
+          >
+            freeCodeCamp
+          </a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+
+</body>
+
+</html>
+
+** end of index.html **
+
+** start of styles.css **
+
+.sub-item-link:link {
+  color: #1a73e8; /* choose any color you like */
+  text-decoration: none;
+}
+
+.sub-item-link{
+  text-decoration:none;
+  color: #1a73e8;
+}
+
+.sub-item-link:visited{
+  color: #6a1b9a;
+}
+.sub-item-link:hover {
+  color: #e53935;
+}
+.sub-item-link:focus {
+  outline: 2px solid #ff9800;
+  outline-offset: 2px;
+}
+.sub-item-link:active {
+  color: #2e7d32;
+}
+
+
+** end of styles.css **
+
